@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Vartaa/static/css/main.60c9fd77.chunk.css",
+    "main.js": "/Vartaa/static/js/main.0d8f80ed.chunk.js",
+    "main.js.map": "/Vartaa/static/js/main.0d8f80ed.chunk.js.map",
+    "runtime-main.js": "/Vartaa/static/js/runtime-main.28396fe9.js",
+    "runtime-main.js.map": "/Vartaa/static/js/runtime-main.28396fe9.js.map",
+    "static/js/2.1764aff2.chunk.js": "/Vartaa/static/js/2.1764aff2.chunk.js",
+    "static/js/2.1764aff2.chunk.js.map": "/Vartaa/static/js/2.1764aff2.chunk.js.map",
+    "static/js/3.c559fa74.chunk.js": "/Vartaa/static/js/3.c559fa74.chunk.js",
+    "static/js/3.c559fa74.chunk.js.map": "/Vartaa/static/js/3.c559fa74.chunk.js.map",
+    "index.html": "/Vartaa/index.html",
+    "static/css/main.60c9fd77.chunk.css.map": "/Vartaa/static/css/main.60c9fd77.chunk.css.map",
+    "static/js/2.1764aff2.chunk.js.LICENSE.txt": "/Vartaa/static/js/2.1764aff2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28396fe9.js",
+    "static/js/2.1764aff2.chunk.js",
+    "static/css/main.60c9fd77.chunk.css",
+    "static/js/main.0d8f80ed.chunk.js"
+  ]
+}
